@@ -1,1 +1,2 @@
 Hello from sample 1 file
+Hello this my new change
